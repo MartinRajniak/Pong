@@ -1,0 +1,2 @@
+# Pong
+For educational purpose
